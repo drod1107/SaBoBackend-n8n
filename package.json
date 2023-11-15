@@ -1,0 +1,11 @@
+{
+  "name": "sabobackend-n8n",
+  "version": "1.0.0",
+  "description": "Low-code logic support for API interactions from SaBo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Rodriguez @drod1107",
+  "license": "ISC"
+}
